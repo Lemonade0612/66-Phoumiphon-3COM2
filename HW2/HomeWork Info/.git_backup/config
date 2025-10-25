@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = git@github.com:Lemonade0612/66-Phoumiphon-3COM2.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
