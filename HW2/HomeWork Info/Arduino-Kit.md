@@ -13,7 +13,7 @@ Arduino Uno ແມ່ນບອດພັດທະນາໄມໂຄຣຄອນ�
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024095811.png|300]]
+<img src="../Pictures/UNO.png" alt="UNO" width="300">
 
 ---
 
@@ -24,11 +24,11 @@ Arduino Uno ແມ່ນບອດພັດທະນາໄມໂຄຣຄອນ�
 EX: 
 - ໃນໂຄງການສະແດງອຸນຫະພູມ, ເຊັນເຊີ DHT11 ແລະ LCD ຖືກເຊື່ອມຕໍ່ກັບ Arduino ຜ່ານແຜ່ນທົດລອງວົງຈອນເພື່ອການທົດສອບທີ່ງ່າຍ.
 - ໃນການສຶກສາດ້ານໄຟຟ້າ, ແຜ່ນທົດລອງວົງຈອນຊ່ວຍໃຫ້ນັກຮຽນເຫັນພາບການເຊື່ອມຕໍ່ລະຫວ່າງຕົວຕ້ານທານ, LED ແລະປຸ່ມກົດກ່ອນເຖິງການເຂື່ອມຕໍ່ຂັ້ນສຸດທ້າຍ.
-- ໃນວົງຈອນຂັບເຄື່ອນມໍເຕີແບບຕົ້ນແບບ,ແຜ່ນທົດລອງວົງຈອຊ່ວຍໃຫ້ທົດສອບຊິບ L293D ໂດຍບໍ່ຕ້ອງເຊື່ອມສາຍອົງປະກອບແບບຖາວອນ.
+- ໃນວົງຈອນຂັບເຄື່ອນມໍເຕີແບບຕົ້ນແບບ,ແຜ່ນທົດລອງວົງຈອຊ່ວຍໃຫ້ທົດສອບຊິບ L293D ໂດຍບໍ່ຕ້ອງເຊື່ອມສາຍອົງປະກອບແບບຖາວອນ. 
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024101317.png|500]]
+<img src="../Pictures/Bread.png" alt="Bread" width="400" height="200">
 
 ---
 
@@ -42,7 +42,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024101644.png|300]]
+<img src="../Pictures/USB.png" alt="USB" width="350">
 
 ________________________________________________________________________
 # **🧵 Wiring & Connectors**
@@ -58,7 +58,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024102704.png|400]]
+<img src="../Pictures/Jumper.png" alt="Jumper" width="350">
 
 ---
 
@@ -67,7 +67,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024103036.png|300]]
+<img src="../Pictures/MaleM.png" alt="MaleM" width="300">
 
 ---
 
@@ -75,7 +75,8 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024103017.png|300]]
+<img src="../Pictures/MaleF.png" alt="MaleF" width="300">
+
 
 ---
 
@@ -83,7 +84,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024102956.png|300]]
+<img src="../Pictures/MaleJ.png" alt="MaleJ" width="300">
 
 ---
 
@@ -98,7 +99,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024103320.png|300]]
+<img src="../Pictures/Batt.png" alt="Batt" width="300">
 
 ________________________________________________________________________
 # **💡 Basic Components**
@@ -114,7 +115,8 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251028213622.png|300]]
+<img src="../Pictures/LED.png" alt="LED" width="300">
+
 
 ---
 
@@ -130,7 +132,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024103841.png|400]]
+<img src="../Pictures/RGB.png" alt="RGB" width="400">
 
 ---
 
@@ -145,9 +147,9 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024104401.png|300]]
+<img src="../Pictures/Resis.png" alt="Resis" width="300">
 
-![[Pasted image 20251024104441.png|300]]
+<img src="../Pictures/Resis1.png" alt="Resis1" width="300">
 
 ---
 
@@ -162,7 +164,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024145501.png|500]]
+<img src="../Pictures/Button.png" alt="Button" width="350" height="200">
 
 ---
 
@@ -177,7 +179,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024145844.png]]
+<img src="../Pictures/Poten.png" alt="Poten" width="400">
 
 ---
 
@@ -192,14 +194,14 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024151159.png|400]]
+<img src="../Pictures/Buzz.png" alt="Buzz" width="350">
+
 
 **Active Buzzer and Passive Buzzer**
 
 **ຮູບພາບປະກອບແບບ PINOUT**
 
-![[Pasted image 20251104182339.png |500]]
-
+<img src="../Pictures/ACPBuzz.png" alt="ACPBuzz" width="400">
 ________________________________________________________________________
 # **📟 Displays & Output**
 
@@ -214,7 +216,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024151456.png|400]]
+<img src="../Pictures/LCD.png" alt="LCD" width="350">
 
 ---
 
@@ -229,7 +231,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024151707.png|500]]
+<img src="../Pictures/I2C.png" alt="I2C" width="350">
 
 ---
 
@@ -244,7 +246,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024151903.png|500]]
+<img src="../Pictures/7Seg.png" alt="7Seg" width="350">
 
 ---
 
@@ -259,7 +261,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024152537.png|500]]
+<img src="../Pictures/74Seg.png" alt="74Seg" width="350">
 
 ---
 **ຈໍສະແດງ Dot Matrix 8x8**
@@ -273,7 +275,8 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024152735.png|400]]
+<img src="../Pictures/Matix.png" alt="Matix" width="350">
+
 ________________________________________________________________________
 #### 📡 Sensors & Input Modules
 
@@ -290,7 +293,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024153150.png|500]]
+<img src="../Pictures/DH.png" alt="DH" width="350">
 
 ---
 
@@ -312,7 +315,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024153345.png]]
+<img src="../Pictures/LM.png" alt="LM" width="350">
 
 ---
 
@@ -336,9 +339,10 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024153759.png|300]]
+<img src="../Pictures/Tilt.png" alt="Tilt" width="350">
 
-![[Pasted image 20251105005311.png |400]]
+
+<img src="../Pictures/TiltS.png" alt="TiltS" width="400" height="200">
 
 ---
 
@@ -368,7 +372,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024154011.png|400]]
+<img src="../Pictures/LDR.png" alt="LDR" width="350">
 
 ---
 
@@ -383,7 +387,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251024154548.png|400]]
+<img src="../Pictures/PIR.png" alt="PIR" width="350">
 
 ---
 
@@ -398,7 +402,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025170311.png|500]]
+<img src="../Pictures/Ultra.png" alt="Ultra" width="350" height="200">
 
 ---
 
@@ -413,7 +417,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025170505.png|300]]
+<img src="../Pictures/Sound.png" alt="Sound" width="350">
 
 ---
 
@@ -428,7 +432,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025170736.png|300]]
+<img src="../Pictures/Water.png" alt="Water" width="350">
 
 ---
 
@@ -443,7 +447,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025184812.png|400]]
+<img src="../Pictures/Flame.png" alt="Flame" width="350">
 
 ---
 
@@ -458,7 +462,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025185103.png|400]]
+<img src="../Pictures/RFID.png" alt="RFID" width="350">
 
 ---
 
@@ -473,7 +477,8 @@ EX: **:**
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025185607.png|400]]
+<img src="../Pictures/Tag.png" alt="Tag" width="350">
+
 
 ---
 
@@ -488,7 +493,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025185756.png|500]]
+<img src="../Pictures/Infra.png" alt="Infra" width="350" height="200">
 
 ________________________________________________________________________
 # **🎮 Remote & Control**
@@ -504,7 +509,8 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025190431.png|400]]
+<img src="../Pictures/Remote.png" alt="Remote" width="400">
+
 ________________________________________________________________________
 **ໂມດູນຈອຍສະຕິກ**
 
@@ -517,7 +523,8 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025190715.png|400]]
+<img src="../Pictures/Joy.png" alt="Joy" width="500">
+
 ________________________________________________________________________
 **ໂມດູນແປ້ນພິມແບບ Matrix 4×4**
 
@@ -530,7 +537,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025191315.png|400]]
+<img src="../Pictures/Martix.png" alt="Martix" width="450">
 
 ---
 
@@ -545,7 +552,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025191620.png|400]]
+<img src="../Pictures/Relay.png" alt="Relay" width="350">
 
 ________________________________________________________________________
 # **⚙️ Motors & Drivers**
@@ -561,9 +568,9 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025192007.png|400]]
+<img src="../Pictures/Servo.png" alt="Servo" width="400">
 
- ---
+---
 
 **ມໍເຕີ Stepper**
 
@@ -576,9 +583,9 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025192148.png|300]]
- 
- ---
+<img src="../Pictures/Stepper.png" alt="Stepper" width="300">
+
+---
  
 **ບອດຄວບຄຸມມໍເຕີ Stepper**
 
@@ -591,7 +598,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025192508.png|400]]
+<img src="../Pictures/CStepper.png" alt="CStepper" width="350">
 
 ________________________________________________________________________
 # **🧠 ICs & Modules**
@@ -609,7 +616,7 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025193142.png|400]]
+<img src="../Pictures/Time.png" alt="Time" width="300">
 
 ---
 
@@ -626,4 +633,5 @@ EX:
 
 **ຮູບພາບປະກອບ**
 
-![[Pasted image 20251025193426.png|400]]
+<img src="../Pictures/Shift.png" alt="Shiftr" width="500">
+
